@@ -1,1 +1,1 @@
-# yayaya
+#EXTINF:-1 tvg-id="XHDF(AztecaUno).mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png" group-title="RECOMENDADOS",Azteca Uno (HD) https://delivery366.akamai-cdn-content.com/hls2/01/03503/ll83eges5v8v_o/master.m3u8?t=1GOK6wPTwVrLemXAL2ZDzdKBr7UgvcZRLO9kGJ6F2rU&s=1662917305&e=10800&f=17516999&srv=sto091&client=75.11.133.63
